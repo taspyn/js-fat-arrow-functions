@@ -1,14 +1,14 @@
-// var sum = function (num1,num2){
-// 	return num1+num2;
-// };
-// console.log(sum (7,12))
+var sum = function (num1,num2){
+	return num1+num2;
+};
+console.log(sum (7,12))
 
 
-// var sum=(num1,num2)=>{
+var sum=(num1,num2)=>{
 
-// return num1+num2;
-// }
-// console.log(sum(7,12))
+return num1+num2;
+}
+console.log(sum(7,12))
 
 
 
