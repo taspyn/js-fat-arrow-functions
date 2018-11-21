@@ -1,4 +1,4 @@
-var multiply= function(num1,num2,num3){
+ var multiply= function(num1,num2,num3){
 	return num1*num2*num3;
 }
 console.log(multiply(10,9,2))
